@@ -10,4 +10,4 @@ class Producto:
             f"Código: {self.codigo}, "
             f"Producto: {self.nombre}, "
             f"Precio: {self.precio}"
-        )
+        )# Sistema restaurante POO
