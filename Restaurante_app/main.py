@@ -5,6 +5,9 @@ from servicios.restaurante import Restaurante
 
 restaurante = Restaurante("La Sason Deliciosa")
 
+codigo = input("Ingrese el código del producto: ")
+nombre = input("Ingrese el nombre del producto: ")
+precio = float(input("Ingrese el precio: "))
 
 p1 = Producto("P001", "Papas fritas", 5.50)
 p2 = Producto("P002", "Batido de fresa", 3.99)

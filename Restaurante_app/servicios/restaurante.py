@@ -21,4 +21,4 @@ class Restaurante:
             f"Restaurante: {self.nombre}, "
             f"Productos: {len(self.productos)}, "
             f"Clientes: {len(self.clientes)}"
-        )# Sistema restaurante POO
+        )
