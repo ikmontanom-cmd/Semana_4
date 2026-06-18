@@ -20,15 +20,14 @@ restaurante_app/
 
 ├── modelos/
 
-│   ├── producto.py     # Clase Producto
-
-│   └── cliente.py      # Clase Cliente
+│   ├── producto.py     
+│   └── cliente.py     
 
 ├── servicios/
 
-│   └── restaurante.py  # Clase Restaurante
+│   └── restaurante.py  
 
-└── main.py             # Punto de entrada
+└── main.py             
 
 README.md
 
